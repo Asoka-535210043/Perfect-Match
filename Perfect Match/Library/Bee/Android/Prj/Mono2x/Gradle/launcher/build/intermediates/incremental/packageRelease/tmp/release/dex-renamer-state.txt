@@ -1,0 +1,4 @@
+#Fri Dec 13 12:12:47 ICT 2024
+base.0=C\:\\Users\\angmi\\OneDrive\\Desktop\\Game Perfect Match\\Perfect Match\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

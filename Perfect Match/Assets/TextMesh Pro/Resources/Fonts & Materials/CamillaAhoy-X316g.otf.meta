@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c0ed4f1ad7397b24f9f7530e0e3cea58
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Camilla Ahoy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27aea107ede095c4f990692db7e2f1ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
