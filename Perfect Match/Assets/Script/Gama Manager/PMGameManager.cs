@@ -189,7 +189,7 @@ public class PMGameManager : MonoBehaviour
             // Debug.Log(maxTotalBlocking);
             int minTotalBlocking = (int) maxTotalBlocking / 2;
             // Debug.Log(minTotalBlocking);
-            int maxHPBlocking = (int) PlayerPrefs.GetInt("Level") / 4;
+            int maxHPBlocking = (int) PlayerPrefs.GetInt("Level") / 3;
             // Debug.Log(maxHPBlocking);
             int minHPBlocking = (int) maxHPBlocking / 2;
             // Debug.Log(minHPBlocking);
